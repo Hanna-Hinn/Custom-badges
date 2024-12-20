@@ -2,4 +2,6 @@
 Repo for making custom badges
 
 # Using Badgen   
-[my badge](https://badgen.net/badge/hello/world/red?icon=github)
+<p align="center">
+  <a href="https://badgen.net/badge/hello/world/red?icon=github"><img src="https://badgen.net/badge/hello/world/red?icon=github"/></a>
+</p>
